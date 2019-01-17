@@ -9,7 +9,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     override func didReceiveMemoryWarning() {
-        
+        print("lll")
     }
 
 
